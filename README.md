@@ -1,14 +1,7 @@
 
 # TD1-3
 
-
-a
-b
-c
-d
-e
-f
-g
+Sacha CUIROT ilyana BENFETITA clemence DROGUE camille de GUELTZL
 
 bonjour les amis, je suis actuellement en cours de Git
 Python
